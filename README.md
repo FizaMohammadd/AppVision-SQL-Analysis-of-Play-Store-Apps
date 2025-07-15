@@ -1,12 +1,10 @@
 # AppVision-SQL-Analysis-of-Play-Store-Apps
 
----
 
 ## 📌 Project Overview
 
 **AppVision** explores app trends, developer behavior, ratings, installs, and more using SQL. The project is built to highlight intermediate-to-advanced SQL skills including joins, CTEs, and window functions.
 
----
 
 ## 📂 Dataset Used
 
@@ -26,7 +24,6 @@ Two CSV files combined:
 * `updated`
 * `released`
 
----
 
 ## 🎯 Project Objectives
 
@@ -35,7 +32,6 @@ Two CSV files combined:
 * Practice SQL joins, CTEs, CASE, aggregation, and window functions
 * Derive actionable insights from app data
 
----
 
 ## 🧠 Key SQL Concepts Demonstrated
 
@@ -45,7 +41,6 @@ Two CSV files combined:
 * **CASE WHEN** logic for bucketing install ranges
 * **Aggregate queries**: `COUNT()`, `AVG()`, `MAX()`
 
----
 
 ## 🚀 Features
 
@@ -55,7 +50,6 @@ Two CSV files combined:
 * Developer-level insights with review, install, and rating analysis
 * Support for real-time analysis after data refresh
 
----
 
 ## 💡 Use Cases
 
@@ -65,7 +59,6 @@ Two CSV files combined:
 * Building dashboards or reports from SQL outputs
 * Practicing interview-ready SQL use cases on public data
 
----
 
 ## 📊 Sample Questions Answered
 
@@ -78,14 +71,12 @@ Two CSV files combined:
 
 \>>  More questions and queries inside the SQL folder.
 
----
 
 ## 🧪 Sample Insights
 
 * Some lesser-known developers outperform top brands in app ratings
 * Android 4.4 and 5.0 are still supported by many active apps
 
----
 
 ## 🛠 Tech Stack
 
@@ -93,7 +84,6 @@ Two CSV files combined:
 * **Excel** (for data cleaning and conversion)
 * **MySQL Workbench**
 
----
 
 ## 🔗 GitHub Repo Usage
 
