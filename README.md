@@ -98,6 +98,17 @@ Two CSV files combined:
 ## 🔗 GitHub Repo Usage
 
 * Clone this repo
-* Load `apps.csv` and `apps_details.csv` into your SQL database
-* Run queries one by one
-* Explore and customize insights further!
+
+* Download and extract AppVision_SQL_Project.zip
+
+* Open the extracted folders:
+
+   * Load apps.csv and apps_details.csv into your SQL database
+
+   * /queries/ – contains SQL scripts with corresponding questions in comments
+
+   * /outputs/ – contains result screenshots 
+
+Run queries one by one
+
+Explore and customize insights further!
