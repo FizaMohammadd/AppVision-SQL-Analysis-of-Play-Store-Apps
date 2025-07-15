@@ -93,11 +93,13 @@ Two CSV files combined:
 
 * Open the extracted folders:
 
-   * Load apps.csv and apps_details.csv into your SQL database
+   * Datasets - contains apps.csv and apps_details.csv files
 
-   * /queries/ – contains SQL scripts with corresponding questions in comments
+            * Load apps.csv and apps_details.csv into your SQL database
 
-   * /outputs/ – contains result screenshots 
+   * queries – contains SQL scripts with corresponding questions in comments
+
+   * outputs – contains result screenshots 
 
 Run queries one by one
 
